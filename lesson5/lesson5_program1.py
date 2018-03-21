@@ -1,3 +1,13 @@
+
+"""
+    udacity fsnd
+    lesson 5 practice problem
+    sending sms to mobile via twilio  
+"""
+
+
+
+
 from twilio.rest import Client
 
 #Account Authorization and Auth Token from twilio.com/user/account
