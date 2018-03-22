@@ -30,5 +30,3 @@ for i in range(total_break):
     print(url)
     webbrowser.open_new_tab(url + 'doc/');
     time.sleep(250) 
-
-
